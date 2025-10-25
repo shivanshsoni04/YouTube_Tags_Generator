@@ -53,9 +53,3 @@ A modern, full-featured **YouTube content assistant** built using **Spring Boot*
 
 ---
 
-## ⚡ Getting Started (Local)
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/shivanshsoni04/YouTube_Tags_Generator.git
-cd YouTube_Tags_Generator
